@@ -1,6 +1,6 @@
 #### Hi there, I am Sachin 👋
 
-### Get in touch:     
+### Get in touch: ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 - 🌱 I’m currently pursuing my masters in Conmputer Science at Purdue University
 - 🤔 I love building anything useful to the common man
