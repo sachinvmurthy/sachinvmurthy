@@ -1,6 +1,6 @@
 #### Hi there, I am Sachin 👋
 
-### Get in touch: ![LinkedIn Action Status](https://www.linkedin.com/in/sachinvenkateshamurthy/)
+### Get in touch: [![LinkedIn Action Status](https://www.linkedin.com/in/sachinvenkateshamurthy/)
 
 
 - 🌱 I’m currently pursuing my masters in Conmputer Science at Purdue University
