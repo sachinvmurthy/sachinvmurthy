@@ -1,6 +1,6 @@
 #### Hi there, I am Sachin 👋
 
-### Get in touch:  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
+### Get in touch:  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinvenkateshamurthy/)
 
 - 🌱 I’m currently pursuing my masters in Conmputer Science at Purdue University
 - 🤔 I love building anything useful to the common man
